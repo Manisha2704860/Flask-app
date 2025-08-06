@@ -1,13 +1,13 @@
 # Flask-app
-# What it built:
+# What it built?
 
 The code builds a simple RESTful API using Flask, a popular Python web framework. The API manages a list of users, allowing you to perform CRUD (Create, Read, Update, Delete) operations on the users.
 
-# Why it built:
+# Why it built?
 
 The API is built to demonstrate a basic example of a RESTful API that can be used to manage a list of users. It provides a simple way to interact with the users data, making it easy to test and understand the API's functionality.
 
-# How it works:
+# How it works?
 
 Here's a high-level overview of how the API works:
 
